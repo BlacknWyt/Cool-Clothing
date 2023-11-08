@@ -1,2 +1,2 @@
 # Cool-Clothing
-n easily scalable clothing website for fictitious clothing brand.
+An easily scalable clothing website for fictitious clothing brand.
