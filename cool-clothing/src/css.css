@@ -1,0 +1,45 @@
+li{
+    display: inline;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 20px;
+    padding: 20px 20px;
+}
+
+ul {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    padding: 20px 20px;
+    height: 40px;
+    background-color: #000000;
+    overflow: hidden;
+    width: 100%;
+    padding: 20px 20px;
+
+  }
+
+#logo{
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-left: solid 2px yellow;
+    border-right:  solid 2px yellow;;
+}
+
+li :hover{
+    background-color: rgb(134, 134, 134);
+}
+
+:link{
+    text-decoration: none;
+}
+
+#cost{
+    background-color: yellow;
+    padding: 50px;
+    border-top: solid black 5px;
+    border-bottom: solid black 5px;
+}
+
